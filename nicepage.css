@@ -36805,13 +36805,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 137px;
+    min-height: 63px;
   }
 
   .u-footer .u-text-1 {
     width: auto;
     margin-top: -97px;
     margin-left: 0;
+    margin-bottom: 60px;
   }
 }
 
